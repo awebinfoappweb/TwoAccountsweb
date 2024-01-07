@@ -1,11 +1,15 @@
-# Two Accounts web
 
-<div align="center"><strong>Two Accounts web provides both cloud and desktop version accounting system.</strong></div>
+<div align="">
+  <h1>Two Accounts web Desktop Version</h1>
+  <h3><strong>Two Accounts web provides both cloud and desktop version accounting system.</strong></h3>
+</div>
+
 <br>
 <ul>
-<li> Two Accounts web desktop is avaliable for Microsoft Windows (x64) 64-bit <strong>win-x64</strong>. <br> Two Accounts web is build with 64 bit, please run on <strong> 64 bit Windows.</strong> Tested on Microsoft Windows 7 with latest version of dependency, 8, 10, 11 <strong>(x64) bit. </strong> </li>
+<li> Two Accounts web desktop is available for Microsoft Windows (x64) 64-bit <strong>win-x64</strong>. <br> Two Accounts web is build with 64 bit, please run on <strong> 64 bit Windows.</strong> Tested on Microsoft Windows 7 with latest version of dependency, 8, 10, 11 <strong>(x64) bit. </strong> </li>
 <li> Linux desktop version will be published soon.</li>
 </ul>
+<br>
 Two Accounts web is a complete and full featured accounting package.
 <br></br>
 
