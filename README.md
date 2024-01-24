@@ -10,12 +10,11 @@
 <li> Linux Desktop version has been released.</li>
 </ul>
 <br>
-<strong>Windows : </strong> After downloading extract zip file. Then run TwoAccountswebDesktopTrail.exe
-<br>
+<strong>Windows : </strong> After downloading extract zip file. Then run <strong>TwoAccountswebDesktopTrail.exe</strong>
+If Windows Defender Firewall blocks the program allow the program from Defender promote and select Private Networks. If Antivirus detects this program as malware or trojan or persistence payload please disable the antivirus or exclude the program from antivirus.
+<br><br>
 <strong>Linux : </strong> Extract zip file then give execute permissions to the file named "TwoAccountswebDesktopTrail" or recursively to the extracted folder eg: from terminal (sudo chmod 777 TwoAccountswebDesktopTrail). Then simply run "TwoAccountswebDesktopTrail" by double clicking or from terminal.
-
 <br></br>
 Two Accounts web is a complete and full featured accounting package.
 <br></br>
-
 Two Accounts web is designed for both accounting and non accounting professionals. This accounting software is desktop and cloud based accounting software which lets small and mid size business owners to manage their finances from anywhere. Transaction to financial statements.
