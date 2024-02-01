@@ -13,7 +13,7 @@
 <strong>Windows : </strong> After downloading extract zip file. Then run <strong>TwoAccountswebDesktopTrail.exe</strong>
 If Windows Defender Firewall blocks the program allow the program from Defender promote and select Private Networks. If Antivirus detects this program as malware or trojan or persistence payload please disable the antivirus or exclude the program from antivirus.
 <br><br>
-<strong>Linux : </strong> Extract zip file then give execute permissions to the file named "TwoAccountswebDesktopTrail" or recursively to the extracted folder eg: from terminal (sudo chmod 777 TwoAccountswebDesktopTrail). Then simply run "TwoAccountswebDesktopTrail" by double clicking or from terminal.
+<strong>Linux : </strong> Extract zip file then give execute permissions to the file named "TwoAccountswebDesktopTrail" or recursively to the extracted folder eg: from terminal <strong>(sudo chmod 777 TwoAccountswebDesktopTrail)</strong> or <strong>(sudo chmod 777 *)</strong>. Then simply run "<strong>TwoAccountswebDesktopTrail</strong>" by double clicking or from terminal.
 <br></br>
 Two Accounts web is a complete and full featured accounting package.
 <br></br>
