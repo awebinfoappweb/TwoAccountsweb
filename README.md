@@ -11,7 +11,10 @@
 </ul>
 <br>
 <strong>Windows : </strong> After downloading extract zip file. Then run <strong>TwoAccountswebDesktopTrail.exe</strong>
-If Windows Defender Firewall blocks the program allow the program from Defender promote and select Private Networks. If Antivirus detects this program as malware or trojan or persistence payload please disable the antivirus or exclude the program from antivirus.
+If Windows Defender Firewall blocks the program allow the program from Defender prompt and select Private Networks. If Antivirus detects this program as malware or trojan or persistence payload please disable the antivirus or exclude the program or application folder from antivirus.
+<br><br>
+<strong> Start > Settings > Update & Security > Windows Security > Virus & threat protection </strong>
+<img src="https://raw.githubusercontent.com/awebinfoappweb/accountingapp/refs/heads/main/Windows-Security-Add-folder-exclusion.png" width="75%"/>
 <br><br>
 <strong>Linux : </strong> Extract zip file then give execute permissions to the file named "TwoAccountswebDesktopTrail" or recursively to the extracted folder eg: from terminal <strong>(sudo chmod 777 TwoAccountswebDesktopTrail)</strong> or <strong>(sudo chmod 777 *)</strong>. Then simply run "<strong>TwoAccountswebDesktopTrail</strong>" by double clicking or from terminal.
 <br></br>
