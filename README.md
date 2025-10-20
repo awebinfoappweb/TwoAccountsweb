@@ -17,7 +17,14 @@ If Windows Defender Firewall blocks the program allow the program from Defender 
 <img src="https://raw.githubusercontent.com/awebinfoappweb/accountingapp/refs/heads/main/Windows-Security-Add-folder-exclusion.png" width="75%"/>
 <br><br>
 <strong>Linux : </strong> Extract zip file then give execute permissions to the file named "TwoAccountswebDesktopTrail" or recursively to the extracted folder eg: from terminal <strong>(sudo chmod 777 TwoAccountswebDesktopTrail)</strong> or <strong>(sudo chmod 777 *)</strong>. Then simply run "<strong>TwoAccountswebDesktopTrail</strong>" by double clicking or from terminal.
-<br></br>
+<hr>
+<strong>Uninstall : </strong>
+<ul>
+    <li>To uninstall click uninstall button form desktop graphical user inteface.</li>
+    <li>Or simply delete the application folder.</li>
+    <li>For fresh installs, use a clean system (multiple instances not supported yet).</li>
+    <!--<li>Built-in uninstaller and updater coming in future versions</li>-->
+</ul>
 Two Accounts web is a complete and full featured accounting package.
 <br></br>
 Two Accounts web is designed for both accounting and non accounting professionals. This accounting software is desktop and cloud based accounting software which lets small and mid size business owners to manage their finances from anywhere. Transaction to financial statements.
