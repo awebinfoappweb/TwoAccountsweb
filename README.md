@@ -17,6 +17,20 @@ If Windows Defender Firewall blocks the program allow the program from Defender 
 <img src="https://raw.githubusercontent.com/awebinfoappweb/accountingapp/refs/heads/main/Windows-Security-Add-folder-exclusion.png" width="75%"/>
 <br><br>
 <strong>Linux : </strong> Extract zip file then give execute permissions to the file named "TwoAccountswebDesktopTrail" or recursively to the extracted folder eg: from terminal <strong>(sudo chmod 777 TwoAccountswebDesktopTrail)</strong> or <strong>(sudo chmod 777 *)</strong>. Then simply run "<strong>TwoAccountswebDesktopTrail</strong>" by double clicking or from terminal.
+<br><br>
+<strong>Important Notes for Linux</strong><br><br>
+<ul>
+ <li>
+                    <strong>If the website is inaccessible or closes when loading an external link like Facebook.com:</strong><br>
+                    Rename the <code>libnssutil3.so</code> file located in the <code>TwoAccountsweb-GUI</code> folder within the application directory. This issue may occur if you are using a version of Ubuntu later than 22.04 or another recent Linux distribution, as the application was built on Ubuntu 22.04.
+                    <code>sudo mv libnssutil3.so libnssutil3.so.bak</code>
+                </li>
+                <li>
+                    <strong>If you encounter a page break or HTML rendering issue in the application's built-in GUI:</strong><br>
+                    You can open the link in your default browser by clicking <strong>Open in Default Browser</strong> from the top navigation bar or by right-clicking on any URL. Alternatively, install the required PyQt5 dependencies using the following command:
+                     <code>sudo apt install qtwebengine5-dev qtwebengine5-doc qtwebengine5-examples libqt5webengine5 libqt5webenginecore5 libqt5webenginewidgets5</code>
+                </li>
+</ul>
 <hr>
 <strong>Uninstall : </strong>
 <ul>
